@@ -57,10 +57,3 @@ This project is a Java-based application to manage candidate details using basic
 
 ---
 
-## 👨‍💻 Author
-
-Maha-2486
-
----
-
-If you want, I can **customize this README based on your exact project logic (like what fields your candidate has or DB used)** 👍
